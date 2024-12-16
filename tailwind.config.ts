@@ -23,8 +23,8 @@ const config: Config = {
       colors: {
         primary: "#1c1c22",
         accent: {
-          DEFAULT: "#00ff99",
-          hover: "#00e187",
+          DEFAULT: "#F72C5B",
+          hover: "#F72C5B",
         },
       },
       fontFamily: {
