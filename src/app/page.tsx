@@ -1,10 +1,11 @@
 import Hero from "@/components/module/home/hero";
+import Service from "./service/page";
 
 const Home = () => {
   return (
-    <section className="">
+    <section>
       <Hero />
-      <h1>home page</h1>
+      <Service />
     </section>
   );
 };

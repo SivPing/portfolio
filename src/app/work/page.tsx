@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Work() {
   return (
-    <div>
+    <section className="container mx-auto lg:px-28">
       <h1>work page</h1>
-    </div>
+    </section>
   );
 }

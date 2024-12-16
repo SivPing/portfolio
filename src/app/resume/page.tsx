@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Resume() {
   return (
-    <div>
+    <section className="container mx-auto lg:px-28">
       <h1>resume page</h1>
-    </div>
+    </section>
   );
 }
