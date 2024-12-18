@@ -30,7 +30,7 @@ export const EXPERIENCE = [
   {
     title: "My Experience",
     description:
-      " Experienced Front-end Developer with over 2 years of experience in Vue.js custom theme building and editing. Proficient in web technologies and WordPress platform, with expertise in Elementor",
+      "Experience with Next.js equips developers to build cutting-edge web applications that are fast, scalable, and optimized for both users and search engines. It bridges the gap between traditional static sites and dynamic applications, making it one of the most versatile tools in modern web development.",
 
     items: [
       {
@@ -38,31 +38,30 @@ export const EXPERIENCE = [
         position: "Junior Web Developer",
         year: "2024 - Present",
       },
-      {
-        duration: "E-Commerce",
-        position: "Freelance Web Developer",
-        year: "2021 - 2024",
-      },
 
       {
         duration: "2M-Media",
         position: "Frontend Developer",
         year: "2022 - 2024",
+      },
+      {
+        duration: "E-Commerce",
+        position: "UX/UI Designer",
+        year: "2022 - 2024",
+      },
+      {
+        duration: "Freelance",
+        position: "UX/UI Designer",
+        year: "2022 ",
       },
 
       {
         duration: "2M-Media",
         position: "Digital Marketing",
-        year: "2020 - 2021",
+        year: "2021 - 2022",
       },
       {
-        duration: "2M-Media",
-        position: "Frontend Developer",
-        year: "2022 - 2024",
-      },
-
-      {
-        duration: "2M-Media",
+        duration: "CN99",
         position: "Digital Marketing",
         year: "2020 - 2021",
       },
@@ -97,9 +96,9 @@ export const EDUCATION = [
         year: "2023",
       },
       {
-        institution: "TFD",
-        degree: "Fullstack Web Development",
-        year: "2024",
+        institution: "NIT",
+        degree: "Database Management",
+        year: "2023",
       },
       {
         institution: "Online Course",

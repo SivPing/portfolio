@@ -6,7 +6,7 @@ import { ArrowDownRight } from "lucide-react";
 
 const Service = () => {
   return (
-    <section className="min-h-[80vh] flex flex-col py-12 lg:py-0 justify-center  h-[700px]">
+    <section className="mt-10 mb-10 flex flex-col lg:py-0 justify-center">
       <div className="container mx-auto lg:px-28 ">
         <motion.div
           initial={{ opacity: 0 }}
@@ -22,7 +22,7 @@ const Service = () => {
               className="flex flex-1 flex-col justify-center gap-6 group"
             >
               <div className="w-full flex justify-between text-white transition-all duration-500 group-hover:text-[#F72C5B]">
-                <div className="text-4xl font-extrabold ">{service.number}</div>
+                <h1 className="text-4xl font-extrabold ">{service.number}</h1>
                 <Link
                   href={service.href}
                   className="lg:w-[70px] w-[40px] h-[40px] lg:h-[70px] rounded-full bg-white group-hover:bg-accent transition-all duration-500 flex justify-center items-center hover:-rotate-45"
@@ -31,10 +31,10 @@ const Service = () => {
                 </Link>
               </div>
               <div>
-                <h2 className="text-[42px] font-bold leading-none text-white group-hover:text-accent transition-all duration-500 ">
+                <h2 className="text-[30px] lg:text-[42px] md:text-[42px] font-bold leading-none text-white group-hover:text-accent transition-all duration-500 ">
                   {service.title}
                 </h2>
-                <p className="text-white/80">{service.description}</p>
+                <p className="text-white/80 mt-5">{service.description}</p>
               </div>
               <div className="border-b border-white/20 w-full"></div>
             </div>
