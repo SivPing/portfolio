@@ -12,8 +12,8 @@ export const NavBarLink = [
     path: "/resume",
   },
   {
-    name: "work",
-    path: "/work",
+    name: "projects",
+    path: "/projects",
   },
   {
     name: "contact",
@@ -35,8 +35,8 @@ export const MobileNavBarLink = [
     path: "/resume",
   },
   {
-    name: "work",
-    path: "/work",
+    name: "projects",
+    path: "/projects",
   },
   {
     name: "contact",
