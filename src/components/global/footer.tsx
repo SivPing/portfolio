@@ -22,8 +22,8 @@ const Footer = () => {
               Virak Sim
             </h3>
             <p className="mb-4">
-              We specialize in creating amazing digital experiences for our
-              clients worldwide.
+              I&apos;m specialize in creating amazing digital experiences for
+              our clients worldwide.
             </p>
             <div className="space-y-2">
               <div className="flex items-center gap-2">
@@ -110,9 +110,9 @@ const Footer = () => {
           {/* Newsletter */}
           <div className="lg:mt-2">
             <h3 className="text-accent text-2xl font-semibold mb-4">
-              Follow us
+              Follow me
             </h3>
-            <p className="mb-4">follow for more</p>
+            <p className="mb-4">Follow for more</p>
             <div className="flex space-x-4">
               <Link
                 href="https://www.facebook.com/profile.php?id=100075883281267"

@@ -12,7 +12,9 @@ const Hero = () => {
         <div className=" flex flex-col lg:flex-row items-center justify-between lg:pt-8 lg:pb-24">
           <div className="text-center lg:text-left order-2 lg:order-none">
             {/* position */}
-            <span className="text-xl">Junior Web Developer</span>
+            <span className="border border-accent rounded-full px-2 py-1 text-accent text-base hover:bg-accent hover:text-primary hover:transition-all duration-500">
+              Full Stack Developer
+            </span>
             <h1 className="h1">
               Hello I&apos;m <br />
               <span className="text-accent">Virak Sim</span>

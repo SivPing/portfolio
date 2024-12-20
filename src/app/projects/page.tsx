@@ -5,7 +5,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import Image from "next/image";
-import { ArrowLeft, ArrowRight, ArrowUpRight, Github } from "lucide-react";
+import { ArrowRight, ArrowUpRight, Github } from "lucide-react";
 import Link from "next/link";
 
 export const PROJECTS = [
@@ -82,14 +82,11 @@ const Project = () => {
                     quality={100}
                     className="rounded-xl shadow-lg object-cover w-full h-auto"
                   />
-                  <div className="flex gap-5">
-                    <div className="mt-7 items-center ">
-                      <ArrowLeft className="text-xs border border-accent rounded-full flex justify-center items-center text-accent  hover:bg-accent hover:text-primary hover:transition-all duration-500" />
-                    </div>
-                    <div className="mt-7 items-center ">
-                      <ArrowRight className="text-xs border border-accent rounded-full flex justify-center items-center text-accent  hover:bg-accent hover:text-primary hover:transition-all duration-500" />
-                    </div>
-                  </div>
+                </div>
+              </div>
+              <div className="flex gap-5">
+                <div className="mt-7 items-center ">
+                  <ArrowRight className="text-xs border border-accent rounded-full flex justify-center items-center text-accent  hover:bg-accent hover:text-primary hover:transition-all duration-500" />
                 </div>
               </div>
             </SwiperSlide>
