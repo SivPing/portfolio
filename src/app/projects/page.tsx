@@ -16,7 +16,7 @@ export const PROJECTS = [
     description:
       "Dreamslab is a leading IT solutions provider, empowering businesses across diverse industries. Our tailored solutions address the unique IT challenges and requirements of each sector.",
     stack: ["Next.js", "Tailwind CSS", "TypeScript", "Pocketbase"],
-    image: "/asset/work/project1.png",
+    image: "/asset/work/project01.png",
     github: "https://github.com/SivPing",
     live: "https://www.dreamslab.dev/",
   },
