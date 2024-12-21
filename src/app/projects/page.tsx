@@ -11,7 +11,7 @@ import { PROJECTS } from "@/constants/project";
 
 const Project = () => {
   return (
-    <section className="py-16  text-white lg:px-28">
+    <section className="py-16  text-white lg:px-28 px-5">
       <div className="container mx-auto px-5">
         <h1 className="text-4xl font-bold text-center mb-10 ">My Project</h1>
         <Swiper spaceBetween={10} className="w-full h-full">
