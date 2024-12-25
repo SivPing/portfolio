@@ -18,7 +18,7 @@ export const RESUME = [
       { fielName: "Phone", fielValue: "(+855) 93 821 749" },
       { fielName: "Experience", fielValue: "2+ Years" },
       { fielName: "Skype", fielValue: "Virak." },
-      { fielName: "Nationalify", fielValue: "Cambodia" },
+      { fielName: "Nationality", fielValue: "Cambodian" },
       { fielName: "Email", fielValue: "sim210721@gmail.com" },
       { fielName: "Freelance", fielValue: "Available" },
       { fielName: "Languages", fielValue: "English, Khmer" },
