@@ -90,7 +90,7 @@ export default function Resume() {
                 </div>
               ))}
             </TabsContent>
-            <TabsContent value="skills" className="gap-10 px-28 md:px-0 ">
+            <TabsContent value="skills" className="gap-10 md:px-0 ">
               {SKILLS.map((skills, index) => (
                 <div
                   key={index}
@@ -124,7 +124,7 @@ export default function Resume() {
                 </div>
               ))}
             </TabsContent>
-            <TabsContent value="about" className="gap-10 px-28 md:px-0 ">
+            <TabsContent value="about" className="gap-10 md:px-0 ">
               {RESUME.map((about, index) => (
                 <div
                   key={index}
