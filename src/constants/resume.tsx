@@ -19,7 +19,7 @@ export const RESUME = [
       { fielName: "Experience", fielValue: "2+ Years" },
       { fielName: "Skype", fielValue: "Virak." },
       { fielName: "Nationality", fielValue: "Cambodian" },
-      { fielName: "Email", fielValue: "sim210721@gmail.com" },
+      { fielName: "Email", fielValue: "simvirak210721@gmail.com" },
       { fielName: "Freelance", fielValue: "Available" },
       { fielName: "Languages", fielValue: "English, Khmer" },
     ],
