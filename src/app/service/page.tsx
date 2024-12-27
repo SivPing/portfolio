@@ -6,7 +6,7 @@ import { ArrowDownRight } from "lucide-react";
 
 const Service = () => {
   return (
-    <section className="mt-10 mb-10 flex flex-col lg:py-0 justify-center">
+    <section className="mt-10  mb-10 flex flex-col lg:py-0 justify-center">
       <div className="container mx-auto lg:px-28 ">
         <motion.div
           initial={{ opacity: 0 }}
