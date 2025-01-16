@@ -7,7 +7,7 @@ import { ArrowDownRight } from "lucide-react";
 const Service = () => {
   return (
     <section className="mt-10  mb-10 flex flex-col lg:py-0 justify-center">
-      <div className=" mx-auto lg:px-28 ">
+      <div className="container mx-auto lg:px-28 ">
         <motion.div
           initial={{ opacity: 0 }}
           animate={{
@@ -25,7 +25,7 @@ const Service = () => {
                 <h1 className="text-4xl font-extrabold ">{service.number}</h1>
                 <Link
                   href={service.href}
-                  className="lg:w-[70px] w-[40px] h-[40px] lg:h-[70px] rounded-full bg-white group-hover:bg-accent transition-all duration-500 flex justify-center items-center hover:-rotate-45"
+                  className="lg:w-16 w-10 h-10 lg:h-16 rounded-full bg-white group-hover:bg-accent transition-all duration-500 flex justify-center items-center hover:-rotate-45"
                 >
                   <ArrowDownRight className=" text-black" />
                 </Link>
