@@ -15,7 +15,7 @@ export const PROJECTS = [
     category: "Full Stack",
     title: "Project 2",
     description:
-      "Explore the diverse subsidiary companies and extensive investment portfolio under Khamsa Group of Businesses, showcasing our strategic ventures, innovative projects, and contributions across various industries.",
+      "Explore the diverse subsidiary companies and extensive investment portfolio under Khamsa Group of Businesses, showcasing our strategic ventures and contributions across various industries.",
     stack: ["Next.js", "Tailwind CSS", "Directus"],
     image: "/asset/work/project2.png",
     github: "https://github.com/SivPing",
@@ -26,7 +26,7 @@ export const PROJECTS = [
     category: "Full Stack",
     title: "Project 3",
     description:
-      "Charii is where founders meet investors. Here on Charii, we nurture and grow small seeds into big trees. Let's bring ideas to life, grow together, and make impactful dreams a reality. Join Charii Today and Make a Difference!",
+      "Charii is where founders meet investors. Here on Charii, we nurture and grow small seeds into big trees. Let's bring ideas to life, grow together, and make impactful dreams a reality.",
     stack: ["Next.js", "Tailwind CSS", "Postgres"],
     image: "/asset/work/project3.png",
     github: "https://github.com/SivPing",

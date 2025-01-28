@@ -12,7 +12,7 @@ import {
 
 const Footer = () => {
   return (
-    <footer className=" bg-slate-950 text-white  px-5">
+    <footer className=" bg-slate-950 text-white ">
       {/* Main Footer Content */}
       <div className="max-w-7xl mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -112,7 +112,7 @@ const Footer = () => {
             <h3 className="text-accent text-2xl font-semibold mb-4">
               Follow me
             </h3>
-            <p className="mb-4">Follow for more</p>
+            <p className="mb-4">Please follow me</p>
             <div className="flex space-x-4">
               <Link
                 href="https://www.facebook.com/profile.php?id=100075883281267"
