@@ -49,7 +49,7 @@ export default function Contact() {
           </div>
           <button
             type="submit"
-            className="w-full bg-primary rounded-xl text-white py-2 px-4  hover:bg-pink-700 focus:ring-2 focus:ring-blue-500 focus:outline-none"
+            className="w-full bg-primary rounded-xl hover:text-black py-2 px-4  hover:bg-white focus:ring-2 focus:ring-blue-500 focus:outline-none"
           >
             Submit
           </button>
