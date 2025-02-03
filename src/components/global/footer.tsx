@@ -12,7 +12,7 @@ import {
 
 const Footer = () => {
   return (
-    <footer className=" bg-slate-950 text-white ">
+    <footer className=" bg-primary text-white border-t border-accent ">
       {/* Main Footer Content */}
       <div className="max-w-7xl mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
